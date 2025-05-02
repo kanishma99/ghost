@@ -15,4 +15,12 @@ public class MISTERY {
 		// TODO Auto-generated method stub
 
 	}
+	private void etreyy() {
+		// TODO Auto-generated method stub
+
+	}
+	private void chh() {
+		// TODO Auto-generated method stub
+
+	}
 }

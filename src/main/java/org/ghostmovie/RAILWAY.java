@@ -15,4 +15,12 @@ public class RAILWAY {
 		// TODO Auto-generated method stub
 
 	}
+	private void wrev() {
+		// TODO Auto-generated method stub
+
+	}
+	private void skkll() {
+		// TODO Auto-generated method stub
+
+	}
 }
