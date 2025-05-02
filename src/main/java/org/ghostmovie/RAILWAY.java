@@ -15,4 +15,17 @@ public class RAILWAY {
 		// TODO Auto-generated method stub
 
 	}
+	private void oouo() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tuyg() {
+		// TODO Auto-generated method stub
+
+	}
+	private void ewtwtw() {
+		// TODO Auto-generated method stub
+
+	}
 }
+

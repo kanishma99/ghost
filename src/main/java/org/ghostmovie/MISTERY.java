@@ -15,4 +15,16 @@ public class MISTERY {
 		// TODO Auto-generated method stub
 
 	}
+	private void nknkn() {
+		// TODO Auto-generated method stub
+
+	}
+	private void mhm() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tuytoo() {
+		// TODO Auto-generated method stub
+
+	}
 }
